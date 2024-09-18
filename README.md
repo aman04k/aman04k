@@ -1,15 +1,15 @@
 ![logo](https://raw.githubusercontent.com/aman04k/Aman_Prajapati/main/akp.gif)
-# aman_prajapati
+# Aman Kumar Prajapati
 <h1 align="center">Hi 👋, I'm Aman Kumar Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p><img src ="akp.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman04k&label=Profile%20views&color=0e75b6&style=flat" alt="aman04k" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development / Full Stack Developer**
 
 - 📫 How to reach me **amanprajapati7266@gmail.com**
--  How to reach ** https://portfoiloaman.netlify.app/**
+-  How to reach ** https://personal-portfolio-azure-beta-72.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
