@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/aman04k/Aman_Prajapati/main/akp.gif)
 # Aman Kumar Prajapati
 <h1 align="center">Hi 👋, I'm Aman Kumar Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and React js Developer</h3>
 <p><img src ="akp.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman04k&label=Profile%20views&color=0e75b6&style=flat" alt="aman04k" /> </p>
