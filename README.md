@@ -2,7 +2,7 @@
 # aman_prajapati
 <h1 align="center">Hi 👋, I'm Aman Kumar Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<p><img src ="akp.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman04k&label=Profile%20views&color=0e75b6&style=flat" alt="aman04k" /> </p>
 
