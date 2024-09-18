@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Prajapati</h1>
 <h3 align="center">A passionate Frontend Developer and React.js Developer</h3>
 
+
+
 <p align="center">
   <!-- Embedding the GIF image properly -->
-  <img src="https://raw.githubusercontent.com/aman04k/Aman_Prajapati/main/akp.gif" alt="akp gif" />
+  <img src="akp.gif" alt="akp gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman04k&label=Profile%20views&color=0e75b6&style=flat" alt="aman04k" /> </p>
