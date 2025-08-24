@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Web Development / Full Stack Development**
 
 - 📫 How to reach me: **amanprajapati7266@gmail.com**
-- 🌐 Visit my portfolio: **[Portfolio](https://personal-portfolio-azure-beta-72.vercel.app/)**
+- 🌐 Visit my portfolio: **[Portfolio](https://aman-portfolio-sooty.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
